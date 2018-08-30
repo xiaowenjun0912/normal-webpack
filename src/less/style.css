@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  background: url('style.less') no-repeat;
+}
+body div {
+  background-color: red;
+  color: black;
+}
